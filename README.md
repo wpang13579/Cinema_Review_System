@@ -13,7 +13,7 @@ A PHP-based web application for managing cinema listings, user reviews, ratings,
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Using
 
 - PHP
 - MySQL
